@@ -1,2 +1,3 @@
 这是一个值得纪念的日子。
 我想修改内容。
+今天是2016年7月30号,git log --stat:show diffstar of changes intruduced at each commit.
